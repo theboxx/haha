@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T09:16:06.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3qCj3UtB7d4AyhXmgrDF" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T09:16:40.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="I1UtrRAHvEI4Q67IOh3X" version="21.8.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2625" dy="3615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -146,6 +146,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PB8VJp5A9sUiDMv73GTw-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PB8VJp5A9sUiDMv73GTw-19" target="PB8VJp5A9sUiDMv73GTw-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PB8VJp5A9sUiDMv73GTw-19" value="조직" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="50" y="-1750" width="150" height="100" as="geometry" />
         </mxCell>
@@ -249,7 +252,7 @@
           <mxGeometry x="1370" y="-1260" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PB8VJp5A9sUiDMv73GTw-73" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;SD&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="-1490" width="200" height="160" as="geometry" />
+          <mxGeometry x="1710" y="-1580" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
