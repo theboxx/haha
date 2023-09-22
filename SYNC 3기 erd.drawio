@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T09:04:28.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5hurkhNXIvnyrmqqotYC" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T09:07:26.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="r6Q4RG8APwcgYTecsDD6" version="21.8.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="3225" dy="3615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -118,7 +118,7 @@
         </mxCell>
         <mxCell id="PB8VJp5A9sUiDMv73GTw-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PB8VJp5A9sUiDMv73GTw-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="-1100" as="targetPoint" />
+            <mxPoint x="820" y="-1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PB8VJp5A9sUiDMv73GTw-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PB8VJp5A9sUiDMv73GTw-3">
@@ -238,11 +238,25 @@
         <mxCell id="PB8VJp5A9sUiDMv73GTw-46" value="판매 계획" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="275" y="-1260" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PB8VJp5A9sUiDMv73GTw-48" value="출고 지시" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-1200" width="150" height="100" as="geometry" />
+        <mxCell id="PB8VJp5A9sUiDMv73GTw-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PB8VJp5A9sUiDMv73GTw-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="-1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PB8VJp5A9sUiDMv73GTw-48" value="출하 계획" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-1290" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PB8VJp5A9sUiDMv73GTw-57" value="일정 조정" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="920" y="-1070" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PB8VJp5A9sUiDMv73GTw-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PB8VJp5A9sUiDMv73GTw-59" target="PB8VJp5A9sUiDMv73GTw-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PB8VJp5A9sUiDMv73GTw-59" value="출하" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-1290" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PB8VJp5A9sUiDMv73GTw-61" value="외부업체 &lt;br&gt;송장 발급" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="-1290" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
