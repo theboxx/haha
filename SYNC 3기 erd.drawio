@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T03:38:18.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="EtyyfnghZcatO-y1YJQZ" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T03:41:06.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bXehUBjHvYB3WmVR9qYb" version="21.8.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3850" dy="3817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2339" dy="3791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -272,6 +272,11 @@
             <mxPoint x="1230" y="-830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xMRs9goJyu4zqFvysK1f-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwYNM2S-BBjEqah2TzmC-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1780" y="-830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IwYNM2S-BBjEqah2TzmC-8" value="재고관리" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1330" y="-880" width="150" height="100" as="geometry" />
         </mxCell>
@@ -314,8 +319,13 @@
         <mxCell id="IwYNM2S-BBjEqah2TzmC-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IwYNM2S-BBjEqah2TzmC-19" target="IwYNM2S-BBjEqah2TzmC-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IwYNM2S-BBjEqah2TzmC-19" value="구매발주" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="IwYNM2S-BBjEqah2TzmC-19" value="자재입고" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1130" y="-570" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xMRs9goJyu4zqFvysK1f-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwYNM2S-BBjEqah2TzmC-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1780" y="-520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IwYNM2S-BBjEqah2TzmC-22" value="지불청산" style="whiteSpace=wrap;html=1;fontSize=24;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1370" y="-565" width="195" height="90" as="geometry" />
@@ -360,24 +370,24 @@
         <mxCell id="IwYNM2S-BBjEqah2TzmC-35" value="매입" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1350" y="-220" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IwYNM2S-BBjEqah2TzmC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="IwYNM2S-BBjEqah2TzmC-34" edge="1">
+        <mxCell id="IwYNM2S-BBjEqah2TzmC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="IwYNM2S-BBjEqah2TzmC-34" edge="1" source="PB8VJp5A9sUiDMv73GTw-65">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="910.07" y="-210" as="targetPoint" />
             <mxPoint x="1562.57" y="-1199.9999999999995" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1790" y="-1200" />
-              <mxPoint x="1790" y="-240" />
+              <mxPoint x="1780" y="-1210" />
+              <mxPoint x="1780" y="-240" />
               <mxPoint x="1155" y="-240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IwYNM2S-BBjEqah2TzmC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="IwYNM2S-BBjEqah2TzmC-35" edge="1">
+        <mxCell id="IwYNM2S-BBjEqah2TzmC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="IwYNM2S-BBjEqah2TzmC-35" edge="1" source="PB8VJp5A9sUiDMv73GTw-65">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1165" y="-210" as="targetPoint" />
             <mxPoint x="1572.57" y="-1189.9999999999995" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1800" y="-1190" />
-              <mxPoint x="1800" y="-230" />
+              <mxPoint x="1780" y="-1210" />
+              <mxPoint x="1780" y="-230" />
               <mxPoint x="1425" y="-230" />
             </Array>
           </mxGeometry>
