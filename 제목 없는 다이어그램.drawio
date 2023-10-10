@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T01:01:26.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ETKvnEIZuLMDUA1mGzcj" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T01:29:18.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="C_qdfL_BnYdWd9AyiEIg" version="22.0.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1500" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1750" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
         <mxCell id="8T2Z44skYFAbo6LwAjQp-17" value="SD 판매오더테이블 &#xa;ITEM" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=#6db1ff;startSize=44;whiteSpace=wrap;fontSize=18.5;align=left;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=1.5;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="410" y="1133" width="225" height="229.5" as="geometry" />
         </mxCell>
-        <mxCell id="8T2Z44skYFAbo6LwAjQp-18" value="판매세부오더코드  PK&#xa;판매오더코드         FK&#xa;자재코드                FK&#xa;자재설명                FK&#xa;수량&#xa;단위&#xa;판매가&#xa;수요총족가능척도&#xa;수요충족가능여부" style="part=1;html=1;resizeHeight=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneFillColor=#6db1ff;strokeOpacity=100;fillOpacity=100;whiteSpace=wrap;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="8T2Z44skYFAbo6LwAjQp-17">
+        <mxCell id="8T2Z44skYFAbo6LwAjQp-18" value="판매세부오더코드  PK&lt;br&gt;판매오더코드         FK&lt;br&gt;자재코드                FK&lt;br&gt;자재설명                FK&lt;br&gt;수량&lt;br&gt;단위&lt;br&gt;판매가&lt;br&gt;수요총족가능척도&lt;br&gt;수요충족가능여부&lt;br&gt;" style="part=1;html=1;resizeHeight=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneFillColor=#6db1ff;strokeOpacity=100;fillOpacity=100;whiteSpace=wrap;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="8T2Z44skYFAbo6LwAjQp-17">
           <mxGeometry y="44" width="225" height="185.5" as="geometry" />
         </mxCell>
         <mxCell id="8T2Z44skYFAbo6LwAjQp-19" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.004;exitPerimeter=0;entryX=0.5;entryY=1.003;entryPerimeter=0;lucidId=bkLBRR-UjgZ_;" edge="1" parent="1" source="8T2Z44skYFAbo6LwAjQp-15" target="8T2Z44skYFAbo6LwAjQp-1">
@@ -94,7 +94,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8T2Z44skYFAbo6LwAjQp-22" value="SD 대금청부테이블" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=#6db1ff;startSize=44;whiteSpace=wrap;fontSize=18.5;align=left;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=1.5;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="8T2Z44skYFAbo6LwAjQp-22" value="SD 대금청구테이블" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=#6db1ff;startSize=44;whiteSpace=wrap;fontSize=18.5;align=left;spacing=0;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;fillColor=#dae8fc;strokeWidth=1.5;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="50" y="1403" width="225" height="188.29546896879322" as="geometry" />
         </mxCell>
         <mxCell id="8T2Z44skYFAbo6LwAjQp-23" value="청구문서번호  PK&#xa;출하코드         FK&#xa;고객코드         FK&#xa;청구일자         &#xa;청구금액&#xa;단위&#xa;판매가&#xa;" style="part=1;html=1;resizeHeight=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneFillColor=#6db1ff;strokeOpacity=100;fillOpacity=100;whiteSpace=wrap;fontSize=13;gradientColor=#7ea6e0;" vertex="1" parent="8T2Z44skYFAbo6LwAjQp-22">
